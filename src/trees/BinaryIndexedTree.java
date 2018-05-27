@@ -1,7 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/***
+ * A Fenwick tree or binary indexed tree is a data structure providing efficient methods
+ * for calculation and manipulation of the prefix sums of a table of values.
+ *
+ * Space complexity for fenwick tree is O(n)
+ * Time complexity to create fenwick tree is O(nlogn)
+ * Time complexity to update value is O(logn)
+ * Time complexity to get prefix sum is O(logn)
+ *
+ * References
+ * http://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/
+ * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+ * http://en.wikipedia.org/wiki/Fenwick_tree
  */
 package trees;
 
