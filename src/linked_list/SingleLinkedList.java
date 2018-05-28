@@ -1,5 +1,7 @@
 /*
- * 
+ * Time Complexity:
+ * Insert and Delete : O(1) -> if pointer to position present or else O(n)
+ * Search and Space  : O(n)
  */
 package linked_list;
 
